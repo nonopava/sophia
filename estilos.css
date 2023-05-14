@@ -40,6 +40,7 @@ h1 {
  #imgTitulo {
      width: 100%;
      float: none;
+     margin-bottom: 5%;
 }
  img {
       width: 100%;
@@ -62,6 +63,7 @@ h1 {
      #audio {
           width: 100%;
           float: none;
+          margin-bottom: 5%;
 }
      
      audio {
