@@ -26,6 +26,9 @@ audio {
 h1 {
      color: #FFF;    
 }
+h2 {
+   color: #FFF;
+}
 
 #mensagem {
      float: left;
