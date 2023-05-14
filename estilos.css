@@ -19,6 +19,7 @@ audio {
 #imgTitulo img {
      width: 80%;
      text-align: center;
+     background: #FFF;
 }
 h1 {
      color: #FFF;
