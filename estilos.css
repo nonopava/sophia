@@ -9,7 +9,8 @@ div {
 }
 
 #audio {
-          width: 35%;    
+          width: 35%;   
+          float: left;
 }
 audio {
      float: left;
