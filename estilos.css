@@ -9,7 +9,7 @@ div {
 }
 
 #audio {
-          width: 35%;   
+          width: 45%;   
           float: left;
 }
 audio {
@@ -34,6 +34,7 @@ h2 {
 #mensagem {
      float: left;
      width: 35%;
+     text-align: justify;
 }
 
 .clear {
